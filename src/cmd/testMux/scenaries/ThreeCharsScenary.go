@@ -1,0 +1,5 @@
+package scenaries
+
+func StartThreeCharsScenary() {
+
+}
